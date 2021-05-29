@@ -1,0 +1,9 @@
+V = {S,A,B,C}
+T = {a,b,c,d,e,f}
+S = {S}
+P = {
+S>ABC
+A>a|b|#
+B>c|d|#
+C>e|f|#
+}

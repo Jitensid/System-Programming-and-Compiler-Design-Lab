@@ -1,0 +1,22 @@
+6
+id
+;
+:
+,
+real
+integer
+3
+D
+L
+T
+D
+3
+D>idL;
+L>,idL|:T
+T>integer|real
+5
+D id idL;
+L : :T
+L , ,idL
+T integer integer
+T real real

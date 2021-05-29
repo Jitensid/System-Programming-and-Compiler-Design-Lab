@@ -1,0 +1,8 @@
+V = {B,C,S}
+T = {a,b,c,d}
+S = {S}
+P = {
+S>Bb|Cd
+B>#|aB
+C>cC
+}
